@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="title_activity_movies_info">Movie Catalog</string>
+    <string name="favourite_movies">Favourite Movies</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_main">Movie Catalog</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="made_with_love">Made with</string>
+    <string name="in_indonesia">in </string>
+    <string name="movies_index">Movies Index</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="genres">Filter By Genres</string>
+    <string name="search_any_movie">Search Any Movie</string>
+    <string name="download">Download</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>
+
+
+
